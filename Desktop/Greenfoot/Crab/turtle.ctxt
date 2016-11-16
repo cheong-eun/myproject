@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=turtle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ turtle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=turtle()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ turtle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=count
+comment3.target=void\ freeze(int)
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment5.params=
+comment5.target=void\ lookForLobster()
+comment5.text=public\ void\ randomTurn()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if\ (Greenfoot.getRandomNumber(50)\ <\ 5)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ turn(Greenfoot.getRandomNumber(5)-3);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=6
